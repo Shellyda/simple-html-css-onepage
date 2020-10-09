@@ -42,9 +42,6 @@ html,body{
 	width: 100%;
 	padding:0 2%;
 	height: 557px;
-	background-image:url('../imagens/header_bg.png');
-	background-size: cover;
-	background-position: center;
 }
 
 .container-banner > .center{
