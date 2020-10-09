@@ -10,7 +10,7 @@ html,body{
 }
 
 @font-face{
-	src:url('../fonts/OpenSans-Light.ttf');
+	src:url('../_fonts/OpenSans-Light.ttf');
 	font-family: "Open Sans";
 }
 
@@ -42,6 +42,9 @@ html,body{
 	width: 100%;
 	padding:0 2%;
 	height: 557px;
+	background-image:url('../_imagens/header_bg.png');
+	background-size: cover;
+	background-position: center;
 }
 
 .container-banner > .center{
@@ -163,7 +166,7 @@ html,body{
 	margin-left: -20px;
 	width: 40px;
 	height: 40px;
-	background-image: url('../imagens/arrow.png');
+	background-image: url('../_imagens/arrow.png');
 	background-size: 100% 100%;
 }
 
