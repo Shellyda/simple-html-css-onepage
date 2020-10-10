@@ -18,7 +18,9 @@ Sim! todo fluxo do arquivo de estilo (.css) foi interrompido por <b>UMA VÍRGULA
 
 <h4>OBS: Deixei disponível a versão com e sem Design Responsivo para que você possa comparar e estudar ambas, assim, entender de forma orgânica o que é um trabalho responsivo.</h4>
 <h3>Bons Estudos!</h3>
-
+*
+*
+*
 <h3>Olá, meu nome é Shellyda Barbosa.</h3> 
 Compartilho no meu perfil do GitHub vários materiais sobre tecnologias Front End com exemplos práticos!!
 Atualmente o foco do meu perfil está voltado para o Desenvolvimento Web em <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b>.  
