@@ -21,6 +21,9 @@ Sim! todo fluxo do arquivo de estilo (.css) foi interrompido por <b>UMA VÍRGULA
 *
 *
 *
+*
+*
+*
 <h3>Olá, meu nome é Shellyda Barbosa.</h3> 
 Compartilho no meu perfil do GitHub vários materiais sobre tecnologias Front End com exemplos práticos!!
 Atualmente o foco do meu perfil está voltado para o Desenvolvimento Web em <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b>.  
