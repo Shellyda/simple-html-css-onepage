@@ -1,8 +1,8 @@
 # Meu primeiro projeto :)
 
 Este foi meu primeiro projeto usando as tecnologias <b>HTML</b> e <b>CSS</b>, o fiz durante o curso 'Front-end 
-completo' da Danki Code. Lembro que no desenvolvimento desse site simples uma pequena vírgula, colocada de forma acidental na codificação do estilo, me fez perder mais ou menos <b>3 horas</b> hehhehehehe 
-Sim! todo fluxo do arquivo de estilo (.css) foi interrompido por <b>UMA VÍRGULA</b> que deixou o site sem estilo algum. Pense no desespero da garota, uma hora estava tudo bonitinho, estilizado e num passe de mágica todo o estilo SOME!
+completo' da Danki Code. Lembro que no desenvolvimento desse site simples uma pequena vírgula, colocada de forma <b>acidental</b> na codificação do estilo, me fez perder mais ou menos <b>3 horas</b> hehhehehehe 
+Sim! todo fluxo do arquivo de estilo (.css) foi interrompido por <b>UMA VÍRGULA</b> que deixou o site sem estilo algum. Pense no desespero da garota, uma hora estava tudo bonitinho, estilizado e num <b>passe de mágica</b> todo o estilo <b>SOME</b>!
 ...quem não passou por isso ainda, um dia vai passar heheheheheh <3
 <ul>
 <h2>Detalhes do Projeto 01:</h2>
