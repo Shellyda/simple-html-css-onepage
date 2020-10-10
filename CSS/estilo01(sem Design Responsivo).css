@@ -1,0 +1,293 @@
+
+/*resetando as definições do navegador */
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box; /* definindo para todo o arquivo essas dimensões */
+    font-family: "OpenSans"; /* definindo a fonte de todos os elementos no site */
+}
+
+html, body{
+	height: 100%;
+}
+
+@font-face{
+	src: url('../fonts/OpenSans-Light.ttf');
+	font-family: "OpenSans";
+}
+
+
+/* O design não é responsivo! */
+
+/* ESSA TAG DEVE SER COLOCADA DPS DO ULTIMO ELEMENTO QUE SOFRE FLUTUAÇÕES!! -> limpando as flutuações causadas pelo float, que causa a não leitura dos elementos filhos, imprimindo na tela dimensões falsas do elemento pai */
+.clear{
+	clear: both;
+}
+
+}
+.center{
+	width: 1200px;
+	margin: 0 auto;
+	padding:0 2%;
+}
+
+.header{
+	min-width: 1200px; /* resolvendo o problema visual criado com o redimensionamento da página, onde a largura não acompanhava os elenentos dando uma imagem de vazio na tela, assim, definindo uma largura minima para que não seja possível redimensionar e causar essa situação*/
+	width: 100%;
+	height: 70px;
+	background-color: #212343;
+}
+
+/*imagem dentro do center */
+.header img{
+   margin: 20px;
+}
+
+/* agr a imagem de fundo */
+
+.container-banner{
+	width: 100%;
+	min-width: 1200px; /* resolvendo o problema visual criado com o redimensionamento da página, onde a largura não acompanhava os elenentos dando uma imagem de vazio na tela, assim, definindo uma largura minima para que não seja possível redimensionar e causar essa situação*/
+	height: 557px;
+	background-size: cover; /* cubra toda a area */
+	background-position: center;
+	background-image:url('../imagens/header_bg.png');
+	/* com o folder aberto do projeto podemos usar diretorios para importar uma imagem, sem a necessidade de ter que pegar sua localização no computador*/
+}
+
+/* aplique essa condição diretamente no center diretamente 
+dentro do container-banner */
+.container-banner > .center{
+	height: 100% /* definindo altura 100% para que o form possa herdar a msm altura */
+/*text-align: right; (caso usasse o display: inline-block;) */
+}
+
+
+/* Lista do canto esquerdo */
+.list{
+	padding: 30px;
+	margin:60px 25px;
+	float: left;
+	width: 600px;
+	height: 270px;
+	background-color: rgba(33,35,67,0.7); /* aplicando certa transparência na cor */
+}
+
+.list ul{
+	list-style-position: inside;
+}
+
+.list ul li{
+	margin-top:20px;
+	color: white;
+}
+
+/* formulário do canto direito */
+.form{
+	margin-right: 50px; 
+	width: 400px;
+	height: calc(100% + 30px); /* fazer o form ficar sobre o container-banner e ao msm tempo sobre o header */
+	position: relative;
+	top: -15px; /* metade de 30px para sobrar 15px em cima e 15px em baixo */ 
+	float: right; /* substinuindo o display: inline-block; */
+	border-width: 12px;
+	border-color: rgba(120,120,120,0.5);
+	border-style: solid;
+    background-clip:padding-box;
+	background-color: white;
+	/*PARA DEIXAR A BORDA TRANSPARENTE: background-clip:padding-box;
+	background-origin tem o mesmo conceito porém serve para imagens.*/
+}
+
+/* Texto em cima do formulário! */
+.form h2{
+	padding-left: 10px;
+	margin-top: 15px;
+	font-weight: normal;
+	color: #999999;
+	font-size: 21px;
+}
+
+/* input dentro do banner */
+
+.input-container{
+	margin-top:20px;
+}
+
+.input-container span{
+	display: inline-block; /* permitindo a modelagem de suas dimensões */
+    width: 100%;
+	color: #BBBBBB;
+	font-size: 17px;
+}
+
+/* definindo estilo para todos input's tipo texto */
+.input-container input[type=text]{
+	outline: 0;
+	margin-top:8px;
+	width: 344px;
+	height: 55px;
+	border:1px solid #ccc;
+}
+
+
+/* alinhando todo o conteúdo dentro do form */
+form{
+	margin-right: 30px;
+	padding-left: 10px;
+}
+
+
+/* msg no final do formulário antes do botão de enviar */
+
+.form p{
+	display: inline-block;
+	width: 100%;
+	color: #BBBBBB;
+	font-size: 17px;
+	margin:20px 0;
+}
+
+
+/*botão de enviar */
+.form input[type=submit]{
+	color: white;
+	font-size: 25px;
+	width: 280px;
+	height: 56px;
+	display: inline-block;
+	background-color: #363A6D;
+	border-top:0;
+	border-right: 0;
+	border-left: 0;
+	cursor: pointer;
+	border-bottom: 5px solid #4A5097;
+	margin-top: 10px;
+}
+
+.form .input-submit-container{
+	text-align: center;
+}
+
+/* efeito passando o mouse por cima do botão de enviar */
+
+.form input[type=submit]:hover{
+	background-color: #323665;
+}
+
+/***/
+
+/* Segunda parte do site */
+
+
+.bloco2{
+	min-width: 1200px; /* resolvendo o problema visual criado com o redimensionamento da página, onde a largura não acompanhava os elenentos dando uma imagem de vazio na tela, assim, definindo uma largura minima para que não seja possível redimensionar e causar essa situação*/
+	padding: 40px 0;
+	background-color: #ddd;
+	text-align: center;
+}
+
+.bloco2 h2{
+	font-weight: normal; /* tirando a definição padrão (bold) */
+}
+
+/* TEXTO */
+.bloco2 p{
+	width: 698px;
+	margin:15px 0;
+	display: inline-block;
+	text-align: justify; /* organizando o paragrafo */
+}
+
+/* icone que fica entre o segundo e terceiro bloco do site */
+
+.arrow{
+	position: relative; /* obs: usando essa propriedade consideramos o local que essa tag se encontra no documento em HTML */
+	/* centralizando o icone e deixando ele entre o primeiro e segundo bloco */
+    top:60px;
+	left:50%; 
+	margin-left: -20px; 
+	/* suas dimensões */
+	width: 40px;
+	height: 40px;
+	background-image: url('../imagens/arrow.png');
+	background-size: 100% 100%; /* corrigir o erro do background se confundindo com a imagem */ 
+}
+
+
+/***/
+
+/* Terceiro bloco do site */
+.bloco3{
+	min-width: 1200px; /* resolvendo o problema visual criado com o redimensionamento da página, onde a largura não acompanhava os elenentos dando uma imagem de vazio na tela, assim, definindo uma largura minima para que não seja possível redimensionar e causar essa situação*/
+	padding:90px 0;
+	background-color: #ccc;
+}
+
+.bloco3 h2{
+	text-align: center;
+	color: #462663;
+	font-weight: normal;
+}
+
+/* imagens e os textos */
+
+/* seção 1 (englobando todos os elementos menos o bloco3) */
+.section-1{
+	margin-top:60px;
+}
+
+.section-1{
+	text-align: center;
+}
+
+/* O conteúdo (imagem, título e texto) */
+
+.conteudo{
+	background-color: #ccc;
+	float: left;
+	width: 33.333%; /* alinhando 3 elementos lado a lado */
+	padding:30px;
+}
+
+/* A imagem */
+.conteudo img{
+	width:70px;
+}
+
+
+/* texto debaixo da imagem e  título  */ 
+.conteudo p{
+	display: inline-block;
+	text-align: justify;
+	padding:10px 25px;
+}
+
+/* o rodape final da pag */
+
+.rodape{
+	width: 100%;
+	padding: 20px;
+    background-color: #ddd;
+	text-align: center;
+	border-top: 2px dotted #888888;
+}
+
+
+h4{
+	font-weight: bold;
+	margin: 15px;
+	color: #351e73;
+}
+
+.rodape p{
+	  width: 100%;
+	  max-width: 768px;
+	  font-weight: bold;
+	  margin: 10px;
+      text-align: justify;
+      display: inline-block;
+      color: #694abd;
+}
+
+	
