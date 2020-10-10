@@ -16,7 +16,7 @@ Sim! todo fluxo do arquivo de estilo (.css) foi interrompido por <b>UMA VÍRGULA
 
 
 
-<h4>OBS: Deixei disponível a versão com e sem Design Responsivo para que você possa comparar e estudar ambas, assim, entender de forma orgânica o que é um trabalho responsivo.</h4>
+<h4>OBS: Deixei disponível a versão COM e SEM Design Responsivo para que você possa comparar e estudar ambas, assim, entender de forma orgânica o que é um trabalho responsivo.</h4>
 <h3>Bons Estudos!</h3>
 *
 *
