@@ -1,6 +1,9 @@
 # Introduction to My Initial Project in Web Development
-
 Embarking on my journey into the realm of web development, I immersed myself in the fundamental technologies of **HTML** and **CSS**. This inaugural project unfolded during my participation in the 'Complete Front-end' course at Danki Code.
+
+<img width="1439" alt="Screenshot 2023-12-15 at 03 04 40" src="https://github.com/Shellyda/simple-html-css-onepage/assets/69990297/6d3f9540-55da-4bf8-a2ab-51e1b6da8c3d">
+
+
 
 Click [here](https://shellyda.github.io/simple-html-css-onepage/) to check out the deployed project!
 
