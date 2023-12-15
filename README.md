@@ -1,40 +1,32 @@
-# Meu primeiro projeto :)
+# Simple HTML and CSS onepage - My first project :)
 
-Este foi meu primeiro projeto usando as tecnologias <b>HTML</b> e <b>CSS</b>, o fiz durante o curso 'Front-end 
-completo' da Danki Code. Lembro que no desenvolvimento desse site simples uma pequena vírgula, colocada de forma <b>acidental</b> na codificação do estilo, me fez perder mais ou menos <b>3 horas</b> hehhehehehe 
-Sim! todo fluxo do arquivo de estilo (.css) foi interrompido por <b>UMA VÍRGULA</b> que deixou o site sem estilo algum. Pense no desespero da garota, uma hora estava tudo bonitinho, estilizado e num <b>passe de mágica</b> todo o estilo <b>SOME</b>!
-... quem não passou por isso, ainda vai passar heheheheheh <3
-<ul>
-<h2>Detalhes do Projeto 01:</h2>
-<li>Um esquema simples de uma Landing Page</li>
-<li>Possui o Design Responsivo</li>
-<li>Manipulação de imagens, textos e fontes</li>
-<li>Aplicação de técnicas básicas de estilização</li>
-<li>Uso de Float e Display inline-block</li>
-<li>Comentários relevantes nos Códigos (.html + .css)</li>
-</ul>
+This marks the initiation of my journey with the technologies **HTML** and **CSS**. I undertook this project during the 'Complete Front-end' course at Danki Code. I vividly recall an amusing incident during the development of this simple site – a small comma, accidentally placed in the style coding, led me to lose approximately **3 hours**. Yes! The entire flow of the style file (.css) was disrupted by a single comma, leaving the site completely devoid of any style. Imagine the despair—everything was looking good, styled, and in a *blink*, all the style **DISAPPEARED**! For those who haven't experienced it yet, be prepared for such adventures in coding! heheheheheh <3
 
+## Overview:
+- A simple Landing Page layout
+- Responsive Design
+- Manipulation of images, texts, and fonts
+- Application of basic styling techniques
+- Use of Float and Display inline-block
+- Relevant comments in the code (.html + .css)
 
+<h4>NOTE: I have provided both Responsive and Non-Responsive versions for you to compare and study. This way, you can organically understand the essence of responsive design.</h4>
 
-<h4>OBS: Deixei disponível a versão COM e SEM Design Responsivo para que você possa comparar e estudar ambas, assim, entender de forma orgânica o que é um trabalho responsivo.</h4>
-<h3>Bons Estudos!</h3>
-*
-*
-*
-*
-*
-*
-<h3>Olá, meu nome é Shellyda Barbosa.</h3> 
-Compartilho no meu perfil do GitHub vários materiais sobre tecnologias Front End com exemplos práticos!!
-Atualmente o foco do meu perfil está voltado para o Desenvolvimento Web em <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b>.  
-<h4>Se sintam a vontade para explorar os meus repositórios, onde eu deixo disponível materiais gratuitos sobre esses temas e afins. Vamos estudar juntos!! :slightly_smiling_face: :heart: :+1: </h4>
+<h3>Happy Studying!</h3>
 
-<h2>Meus Projetos:</h2>
+* * * * *
 
-- O estudo sobre o <b>Básico</b> das codificações <b>HTML</b> e <b>CSS</b>. Para acessar [Clique aqui](https://github.com/Shellyda/Basico-HTML-CSS)  :orange_heart:  :blue_heart: 
+I share various materials on Front-End technologies with practical examples on my GitHub profile! Currently, my focus is on Web Development using **HTML**, **CSS**, and **JavaScript**.
 
-- <b>JavaScript</b> para iniciantes na programação. Para acessar [Clique aqui](https://github.com/Shellyda/Basico-JavaScript) :yellow_heart: :yellow_heart:  :yellow_heart: 
+#### Feel free to explore my repositories where I provide free materials on these topics and more. Let's study together!! :slightly_smiling_face: :heart: :+1:
 
-- Técnicas <b>Avançadas</b> do <b>HTML5</b> e <b>CSS3</b>. Para acessar [Clique aqui](https://github.com/Shellyda/Avancado-HTML-CSS) :orange_circle: :large_blue_circle: 
+## My Projects:
 
-- Desenvolvimento web <b>avançado</b> com <b>JavaScript</b>. Para acessar [Clique aqui](https://github.com/Shellyda/Avancado-JavaScript) :star: :star: :star:
+- Exploring the **Basics** of **HTML** and **CSS**. [Click here](https://github.com/Shellyda/studies-html-css-basic) :orange_heart: :blue_heart:
+
+- **JavaScript** for beginners in programming. [Click here](https://github.com/Shellyda/studies-javascript-basic) :yellow_heart: :yellow_heart: :yellow_heart:
+
+- Advanced techniques of **HTML5** and **CSS3**. [Click here](https://github.com/Shellyda/studies-html-css-advanced) :orange_circle: :large_blue_circle:
+
+- Advanced web development with **JavaScript**. [Click here](https://github.com/Shellyda/studies-javascript-advanced) :star: :star: :star:
+
