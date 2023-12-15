@@ -2,6 +2,8 @@
 
 Embarking on my journey into the realm of web development, I immersed myself in the fundamental technologies of **HTML** and **CSS**. This inaugural project unfolded during my participation in the 'Complete Front-end' course at Danki Code.
 
+Click [here](https://shellyda.github.io/simple-html-css-onepage/) to check out the deployed project!
+
 ## An Unforgettable Episode
 
 Amidst the development of this seemingly simple site, a comical incident stands out in my memory. A tiny comma, innocently misplaced in the style coding, resulted in an unexpected setback, consuming approximately **3 hours** of my time. Yes, you read it right! A solitary comma disrupted the entire flow of the style file (.css), rendering the site devoid of any style. Picture the dismay—everything appeared polished, styled, and in a fleeting moment, all the style **VANISHED**! For those yet to encounter such coding escapades, brace yourselves for such adventures! heheheheheh <3
